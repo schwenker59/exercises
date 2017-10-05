@@ -10,7 +10,8 @@
 
 
 # Constant for the number of square feet in an acre.
-
+SQUARE_FEET_IN_ACRE = 467777
+sales_total = 0.0
 
 # Get the square feet in the tract from the user.
 # you will need to convert this input to a float

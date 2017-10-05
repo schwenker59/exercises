@@ -6,7 +6,7 @@
 # then display the result.
 
 # Variables to hold the sales total and the profit
-# initialize them as float values
+# initialize them as float value
 
 
 # Get the amount of projected sales.
@@ -17,9 +17,9 @@
 
 
 # Print the projected profit.
-# be sure to format the output to two decimal places
+# be sure to format the output to two decimal place
 
 
 
 
-
+  
