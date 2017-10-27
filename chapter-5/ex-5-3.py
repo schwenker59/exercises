@@ -1,5 +1,5 @@
 # Programming Exercise 5-3
-#
+
 # Program to compute recommended insurance to carry on an item.
 # This program accepts a replacement cost from a user,
 # calculates a minimum recommended insurance to carry from a global constant,

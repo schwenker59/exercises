@@ -1,13 +1,13 @@
 # Programming Exercise 3-1
-#
+
 # Program to display the name of a week day from its number.
 # This program prompts a user for the number (1 to 7)
 # and uses it to choose the name of a weekday
 # to display on the screen.
-
+input
 # Variables to hold the day of the week and the name of the day.
 # Be sure to initialize the day of the week to an int and the name as a string.
-
+7 = Sunday 
 
 # Get the number for the day of the week.
 # be sure to format the input as an int
